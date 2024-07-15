@@ -4,8 +4,6 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amirkaseb&label=Profile%20views&color=0e75b6&style=flat" alt="amirkaseb" /> </p>
 
 
-- 🌱 I’m currently learning **Computer Vision**
-
 - 📫 How to reach me **amir.m.kasseb@gmail.com**
 
 - ⚡ Fun fact **I am so Funny !**
